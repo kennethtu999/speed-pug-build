@@ -1,0 +1,17 @@
+{
+  "name": "speedup-pug-build",
+  "version": "0.0.1",
+  "main": "src/pugWatcher.js",
+  "license": "ISC",
+  "author": "Kenneth Tu",
+  "maintainers": ["Kenneth Tu"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennethtu999/speedup-pug-build.git"
+  },
+  "keywords": ["pug","build"],
+  "dependencies": {
+    "sync-directory": "5.1.7",
+    "rimraf": "3.0.2"
+  }
+}
